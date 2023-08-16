@@ -11,3 +11,4 @@ WORKDIR /app
 
 # Start the Rasa server
 CMD ["rasa", "run", "-p", "5005"]
+    
