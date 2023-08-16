@@ -13,6 +13,6 @@ steps:
       - 'run'
       - 'deploy'
       - 'rasa'
-      - '--image=gcr.io/bigquery-390709/drzz:$COMMIT_SHA'
+      - '--image=gcr.io/bigquery-390709/rasa:$COMMIT_SHA'
       - '--platform=managed'
       - '--region=asia-south1'
