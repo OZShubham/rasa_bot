@@ -1,0 +1,7 @@
+google-cloud-datastore
+bcrypt
+google-cloud-storage
+rasa==2.8.0
+rasa-sdk==2.8.1
+spacy==3.1.2
+en_core_web_md==3.1.0
